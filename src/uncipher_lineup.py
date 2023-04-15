@@ -1,5 +1,3 @@
-import codecs  # Pour l'unicode
-
 
 def file_to_list(filename: str) -> list:
     """Return a list of strings separated by a new line 
