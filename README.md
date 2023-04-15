@@ -1,4 +1,5 @@
-![Ciphered lineup](images/ciphered_lineup.png)
+![Ciphered lineup ](images/ciphered_lineup.png)
+
 
 # Déchiffrage de la programmation d'un concert 
 
@@ -12,9 +13,9 @@ Le média rap [New-Tone](https://www.new-tone.fr) surtout présent sur [instagra
 >New-Tone se décrit de cette façon : "Il aborde la musique sur un nouveau ton en présentant les artistes de demain à une communauté réunie par la culture Hip Hop."
   
 Fin décembre 2023, New-Tone annonce dans un [post insta](https://www.instagram.com/p/Cl6anVzt1lw/?utm_source=ig_web_copy_link) l'organisation d'une soirée avec 5 artistes ! Mais les artistes sont secrets, cachés derrière un chiffrage et les places sont moins chères pour remercier la confiance du public.  
-![Line up secret et tarif réduit](images/secret_lineup.png | 400)
+![Line up secret et tarif réduit](images/secret_lineup.png)
 De plus si l'on devine les artistes, la place est **offerte** !  
-![Devine 3 artistes et on t'invite !](images/Free_entry.png | 400)
+![Devine 3 artistes et on t'invite !](images/Free_entry.png)
 
 Donc mon objectif était tout tracé et j'ai décidé de décrypter ce *line-up* à l'aide de python.
 

@@ -66,7 +66,7 @@ def decode_cipher(cipher : str, decoded_cipher : str, string_cursor =0 , voyel =
 
 def main():
     artist_list = file_to_list("artist.txt")
-    code_list = file_to_list("artists_code")
+    code_list = file_to_list("artists_code.txt")
     """
     for code in code_list:
         result = find_similar_length(code, artist_list)
