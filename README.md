@@ -1,4 +1,4 @@
-<img src="images/ciphered_lineup.png" alt="Ciphered lineup" width="200"/>
+<img src="images\ciphered_lineup.png" alt="Ciphered lineup" width="200"/>
 
 ![Ciphered lineup ](images/ciphered_lineup.png)
 
