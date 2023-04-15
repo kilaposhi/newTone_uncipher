@@ -1,7 +1,4 @@
-<img src="images\ciphered_lineup.png" alt="Ciphered lineup" width="200"/>
-
-![Ciphered lineup ](images/ciphered_lineup.png)
-
+<img src="images\ciphered_lineup.png" alt="Ciphered lineup" width="500"/>
 
 # Déchiffrage de la programmation d'un concert 
 
