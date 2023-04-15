@@ -5,9 +5,9 @@
 
 # Déchiffrage de la programmation d'un concert 
 
-- [Contexte](#Contexte)
-- [Problème](#Problème)
-- [Solution](#Solution)
+- [Contexte](#Contexte-)
+- [Problème](#Problème-)
+- [Solution](#Solution-)
 
 ## Contexte :
 Le média rap [New-Tone](https://www.new-tone.fr) surtout présent sur [instagram](https://www.instagram.com/newtone.scope/)  est un média que j'aime :purple_heart: . Il me fait découvrir des artistes qui sont très **peu connus** mais très talentueux et incatégorisables. On pourrait les décrire comme du *rap new wave* dont je suis très fan ([mon spotify](https://open.spotify.com/user/kilaposhi?si=9c4a7807956346c1) :notes:).
