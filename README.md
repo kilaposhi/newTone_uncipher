@@ -1,3 +1,5 @@
+<img src="images/ciphered_lineup.png" alt="Ciphered lineup" width="200"/>
+
 ![Ciphered lineup ](images/ciphered_lineup.png)
 
 
@@ -18,7 +20,8 @@ Fin décembre 2023, New-Tone annonce dans un [post insta](https://www.instagram.
 De plus si l'on devine les artistes, la place est **offerte** !  :star2: 
 ![Devine 3 artistes et on t'invite !](images/Free_entry.png)
 
-Donc mon objectif était tout tracé et j'ai décidé de décrypter ce *line-up* à l'aide de python.
+Donc mon objectif était tout tracé et j'ai décidé de décrypter ce *line-up* à l'aide de python pour pouvoir passer une **bonne soirée**. :fire:
+
 
 
 ## Problème :
